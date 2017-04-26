@@ -13,4 +13,4 @@ Website: https://www.phpliteadmin.org/
 # Configuration
 You can configure this tool in `phpliteadmin.config.php` file.
 
-For more information, see the official repository: https://github.com/phpLiteAdmin/pla
+For more information, see the official repository: https://github.com/phpLiteAdmin/pla#configuration
