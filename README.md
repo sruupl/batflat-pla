@@ -5,5 +5,11 @@ Website: https://www.phpliteadmin.org/
 
 # Installation
 1. Download this repository on your computer.
-2. Extract the downloaded file to Batflat directory.
-3. Open in browser http://domain.com/phpliteadmin/
+2. Unzip the downloaded files.
+3. Move extracted files to Batflat directory into the `phpliteadmin` folder.
+4. Open in browser http://your-domain.com/phpliteadmin/
+
+# Configuration
+You can configure this tool in `phpliteadmin.config.php` file.
+
+For more information, see the official repository: https://github.com/phpLiteAdmin/pla
