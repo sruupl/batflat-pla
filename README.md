@@ -7,7 +7,8 @@ Website: https://www.phpliteadmin.org/
 1. Download this repository on your computer.
 2. Unzip the downloaded files.
 3. Move extracted files to the Batflat directory into the `phpliteadmin` folder.
-4. Open in browser `http://your-domain.com/phpliteadmin/`
+4. Change the default password in the configuration file.
+5. Open in browser `http://your-domain.com/phpliteadmin/`
 
 # Configuration
 You can configure this tool in `phpliteadmin.config.php` file.
